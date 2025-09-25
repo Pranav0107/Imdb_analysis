@@ -12,4 +12,4 @@ Approach: Python and associated libraries are used. Steps involved are as follow
 6.	Build the model on Logistic reegression
 7.	Calculate the performance metrics
 Learning Value: The exercise gives a basic understanding on NLP domain. It helps to get an insight on few Python Libraries.
-
+Dataset Drive link: https://drive.google.com/file/d/1aMAj3HQjcGdVHCOI6aLa2aS3OlSN1Qz4/view?usp=drivesdk
